@@ -195,3 +195,11 @@ These measures and visuals provide Walmart with actionable insights, including i
 3. **Incorporate Weather-Based Demand Insights**: Adjust inventory levels to meet seasonal and weather-related demand patterns.
 4. **Enhance Loyalty Programs for Repeat Customers**: Use insights from demographic and loyalty data to tailor promotions for key customer segments.
 5. **Optimize Staffing and Stock for Peak Hours**: Schedule staffing and stock replenishment to align with peak selling hours for enhanced customer service.
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/debojyti-dutta-choudhury/" target="_blank">Follow me on LinkedIn</a>
+</p>
+
+
