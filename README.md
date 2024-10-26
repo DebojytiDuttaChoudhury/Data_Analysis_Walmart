@@ -91,9 +91,8 @@ Walmart needs a data-driven inventory optimization solution that minimizes both 
 - **Steps Taken**: Ensured data quality by handling missing values, standardizing date formats, and ensuring consistent data types across columns.
 
 ### Measures and Calculations
-<p align="center">
-  <a href="https://drive.google.com/file/d/1HJm3IsfkLvNiHFRL_C4_I8oqZGksaErF/view?usp=sharing" target="_blank">Here's an explanation for each measure and DAX calculation in the context of Walmart Inventory Optimization project.</a>
-</p>
+
+#### Here's an explanation for each measure and DAX calculation in the context of Walmart Inventory Optimization project-[Dax_Measures.pdf](https://github.com/user-attachments/files/17529545/Dax_Measures.pdf)
 
 #### Repeat Customer Identification (`Is Repeat Customer`)
 - **Purpose**: Track customer loyalty by identifying repeat customers.
