@@ -101,6 +101,27 @@
 - **Reason**: Plots forecast accuracy trends to assess prediction effectiveness.
 - **Impact**: Refines Walmart’s forecasting model, leading to better inventory management.
 
+### Sales by Payment Method
+- **Reason**: This visualization breaks down sales by payment methods (e.g., credit card, debit card, cash, digital wallet), showing customer preferences for each method.
+- **Impact**: Helps Walmart understand customer payment preferences, allowing for improved payment options and policies to enhance the customer experience. For instance, if digital wallets are highly used, Walmart might invest in promotions targeting mobile payments or introduce new payment options for convenience.
+
+### Holiday & Non-Holiday Sales
+- **Reason**: Separates total sales for holiday and non-holiday periods to capture seasonal demand patterns and analyze spikes during holidays.
+- **Impact**: Enables Walmart to prepare for increased holiday demand, preventing stockouts and optimizing promotional activities. By identifying holiday-driven sales growth, Walmart can strategize inventory management and staffing to maximize sales during these periods.
+
+### Top Performing Stores
+- **Reason**: Identifies the stores generating the highest sales volume, providing insights into the locations with the strongest performance.
+- **Impact**: Allows Walmart to understand the factors contributing to each store’s success and replicate strategies across lower-performing locations. By focusing on top-performing stores, Walmart can drive regional marketing campaigns and invest in high-demand inventory to further enhance revenue.
+
+### Table Visual of Product Name, Total Sales, Revenue Before Promotion, Revenue From Promotion, Promotion Sales Difference
+- **Reason**: Displays a detailed breakdown of sales metrics by product, including:
+  - **Total Sales**: Overall revenue generated per product.
+  - **Revenue Before Promotion**: Revenue without any applied promotions.
+  - **Revenue From Promotion**: Revenue generated with applied promotions.
+  - **Promotion Sales Difference**: Difference in revenue due to promotions, helping to evaluate promotion effectiveness per product.
+- **Impact**: This table provides a comprehensive view of each product's sales performance, allowing Walmart to assess the impact of promotions. Understanding which products benefit most from promotions helps Walmart optimize promotional investments, prioritize inventory, and maximize sales revenue across product lines.
+
+
 ---
 
 ## 4. Conclusion and Recommendations
