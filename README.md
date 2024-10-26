@@ -10,6 +10,59 @@
 
 **Objective**: Walmart aims to enhance inventory management by implementing real-time demand forecasting, minimizing stockouts, and optimizing inventory levels across stores. This data-driven approach focuses on customer demand forecasting, external factors like weather, and promotional impact.
 
+## Problem Definition
+
+Walmart needs a data-driven inventory optimization solution that minimizes both stockouts and overstocking by forecasting demand based on past sales data. The goal is to develop a scalable approach that adjusts inventory levels dynamically using real-time insights from the analysis.
+
+---
+
+## Key Questions for Stakeholders
+
+### Inventory Managers:
+- **How can we improve inventory accuracy and ensure that stock levels match demand?**
+- **What factors are contributing to stockouts, and how can we address them?**
+
+### Store Managers:
+- **How can we allocate inventory more efficiently across stores based on local demand patterns?**
+- **How do promotions and weather influence sales at different store locations?**
+
+### Marketing and Promotions Team:
+- **What is the return on investment (ROI) for promotions, and how do they affect demand?**
+
+---
+
+## Stakeholder Involvement
+
+### Internal Stakeholders:
+- **Inventory Managers**: Will use the demand forecasting insights to ensure optimal stock levels across stores.
+- **Store Managers**: Responsible for managing in-store inventory based on demand.
+- **Marketing Team**: Understands how promotions impact sales and tailors campaigns accordingly.
+
+### External Stakeholders:
+- **Customers**: Their purchasing behavior directly influences demand forecasts.
+- **Suppliers**: Will receive more accurate forecasts to ensure timely and sufficient product delivery.
+
+---
+
+## Metric Development
+
+### Stockout Rate
+- **Definition**: Number of stockouts as a percentage of total sales.
+  
+### Forecast Accuracy
+- **Definition**: Difference between forecasted demand and actual demand.
+
+### Sales Uplift from Promotions
+- **Definition**: Percentage increase in sales during promotions.
+
+### Weather Impact on Sales
+- **Definition**: Sales variance in different weather conditions.
+
+### Customer Loyalty and Purchasing Patterns
+- **Definition**: Impact of loyalty tier on purchasing behavior.
+
+---
+
 **Data Sources**: The dataset includes:
 - **Sales Transactions**: Transaction-level data capturing product, location, and date information.
 - **Customer Data**: Information on customer behavior and loyalty.
