@@ -1,4 +1,5 @@
 <h2 style="text-align: center;">Walmart</h2>
+
 ![Walmart-Store](https://github.com/user-attachments/assets/1b69df9a-14c8-44bb-84da-bde090eb9aa8)
 ## Dashboard
 ![Walmart_MainDashboard](https://github.com/user-attachments/assets/7d01d1a0-e79e-46af-b733-ce3fd6ef7b24)
