@@ -198,21 +198,11 @@ These measures and visuals provide Walmart with actionable insights, including i
 4. **Enhance Loyalty Programs for Repeat Customers**: Use insights from demographic and loyalty data to tailor promotions for key customer segments.
 5. **Optimize Staffing and Stock for Peak Hours**: Schedule staffing and stock replenishment to align with peak selling hours for enhanced customer service.
 
-<h2 style="text-align: center; color: #FF5733; animation: color-change 2s infinite;">
-  Thank You
-</h2>
-
-<style>
-  @keyframes color-change {
-    0% { color: #FF5733; }
-    25% { color: #33FFBD; }
-    50% { color: #337BFF; }
-    75% { color: #FF33A6; }
-    100% { color: #FF5733; }
-  }
-</style>
-
 ---
+<p align="center">
+  <img src="URL_OF_YOUR_GIF" alt="Thank You">
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/debojyti-dutta-choudhury/" target="_blank">Follow me on LinkedIn</a>
