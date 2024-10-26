@@ -94,7 +94,6 @@ Walmart needs a data-driven inventory optimization solution that minimizes both 
 <p align="center">
   <a href="https://drive.google.com/file/d/1HJm3IsfkLvNiHFRL_C4_I8oqZGksaErF/view?usp=sharing" target="_blank">Here's an explanation for each measure and DAX calculation in the context of Walmart Inventory Optimization project.</a>
 </p>
-### Here's an explanation for each measure and DAX calculation in the context of Walmart Inventory Optimization project.**[https://drive.google.com/file/d/1HJm3IsfkLvNiHFRL_C4_I8oqZGksaErF/view?usp=sharing]**
 
 #### Repeat Customer Identification (`Is Repeat Customer`)
 - **Purpose**: Track customer loyalty by identifying repeat customers.
