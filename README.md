@@ -92,7 +92,7 @@ Walmart needs a data-driven inventory optimization solution that minimizes both 
 
 ### Measures and Calculations
 
-#### Here's an explanation for each measure and DAX calculation in the context of Walmart Inventory Optimization project-[Dax_Measures.pdf](https://github.com/user-attachments/files/17529545/Dax_Measures.pdf)
+#### Here's an explanation for each measure and DAX calculation in the context of Walmart Inventory Optimization project -> [Dax_Measures.pdf](https://github.com/user-attachments/files/17529545/Dax_Measures.pdf)
 
 #### Repeat Customer Identification (`Is Repeat Customer`)
 - **Purpose**: Track customer loyalty by identifying repeat customers.
