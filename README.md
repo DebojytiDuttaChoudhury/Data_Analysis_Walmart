@@ -31,8 +31,7 @@
 - **Steps Taken**: Ensured data quality by handling missing values, standardizing date formats, and ensuring consistent data types across columns.
 
 ### Measures and Calculations
-### Here's an explanation for each measure and DAX calculation in the context of Walmart Inventory Optimization project. 
-_**[https://drive.google.com/file/d/1HJm3IsfkLvNiHFRL_C4_I8oqZGksaErF/view?usp=sharing]**
+### Here's an explanation for each measure and DAX calculation in the context of Walmart Inventory Optimization project.**[https://drive.google.com/file/d/1HJm3IsfkLvNiHFRL_C4_I8oqZGksaErF/view?usp=sharing]**
 
 #### Repeat Customer Identification (`Is Repeat Customer`)
 - **Purpose**: Track customer loyalty by identifying repeat customers.
