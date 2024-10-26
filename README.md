@@ -70,7 +70,7 @@ Walmart needs a data-driven inventory optimization solution that minimizes both 
 
 ---
 
-**Data Sources**: The dataset includes:
+**Data Sources**: [Retail_Inventory_Optimization_Data.xlsx](https://github.com/user-attachments/files/17529513/Retail_Inventory_Optimization_Data.xlsx) The dataset includes:
 - **Sales Transactions**: Transaction-level data capturing product, location, and date information.
 - **Customer Data**: Information on customer behavior and loyalty.
 - **Promotions**: Types and impacts of promotional activities.
