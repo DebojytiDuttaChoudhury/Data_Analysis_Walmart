@@ -204,5 +204,5 @@ These measures and visuals provide Walmart with actionable insights, including i
 </p>
 
 <p align="center">
-  <img src="URL_OF_YOUR_IMAGE" alt="Thank You">
+  <img src="Thank You">
 </p>
