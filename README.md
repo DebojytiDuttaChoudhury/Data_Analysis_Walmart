@@ -2,6 +2,7 @@
 ![Walmart-Store](https://github.com/user-attachments/assets/1b69df9a-14c8-44bb-84da-bde090eb9aa8)
 ## Dashboard
 ![Walmart_MainDashboard](https://github.com/user-attachments/assets/7d01d1a0-e79e-46af-b733-ce3fd6ef7b24)
+
 ## Tooltips Under Sales by Category and Promotion Type
 ![Sales by Category and Promotion Type (Tooltips)](https://github.com/user-attachments/assets/6b8438ef-099f-4d8a-836f-8418c80ba515)
 ## Dril Through for Detail Insight Product or Location
