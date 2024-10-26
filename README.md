@@ -203,6 +203,7 @@ These measures and visuals provide Walmart with actionable insights, including i
   For any questions or inquiries, feel free to connect with me on <a href="https://www.linkedin.com/in/debojyti-dutta-choudhury/" target="_blank">LinkedIn</a>. I’d be happy to connect!
 </p>
 
-<p align="center">
-  <img src="Thank You">
-</p>
+<div style="text-align: center;">
+  <p>Thank You</p>
+</div>
+
