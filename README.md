@@ -203,6 +203,8 @@ These measures and visuals provide Walmart with actionable insights, including i
 
 [View the Walmart Presentation](https://drive.google.com/file/d/1-UzER3kUxApqNsKy6V5GElkR0dk16etx/view?usp=sharing)
 
+---
+
 <p align="center">
   For any questions or inquiries, feel free to connect with me on <a href="https://www.linkedin.com/in/debojyti-dutta-choudhury/" target="_blank">LinkedIn</a>. I’d be happy to connect!
 </p>
