@@ -198,6 +198,11 @@ These measures and visuals provide Walmart with actionable insights, including i
 5. **Optimize Staffing and Stock for Peak Hours**: Schedule staffing and stock replenishment to align with peak selling hours for enhanced customer service.
 
 ---
+
+## Presentation Link
+
+[View the Walmart Presentation](https://drive.google.com/file/d/1-UzER3kUxApqNsKy6V5GElkR0dk16etx/view?usp=sharing)
+
 <p align="center">
   For any questions or inquiries, feel free to connect with me on <a href="https://www.linkedin.com/in/debojyti-dutta-choudhury/" target="_blank">LinkedIn</a>. I’d be happy to connect!
 </p>
