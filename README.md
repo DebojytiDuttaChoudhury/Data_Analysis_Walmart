@@ -206,7 +206,7 @@ These measures and visuals provide Walmart with actionable insights, including i
 ---
 
 <p align="center">
-  For any questions or inquiries, feel free to connect with me on <a href="https://www.linkedin.com/in/debojyti-dutta-choudhury/" target="_blank">LinkedIn</a>. I’d be happy to connect!
+  For any questions or inquiries, feel free to connect with me on <a href="https://www.linkedin.com/in/debojyti-dutta-choudhury" target="_blank">LinkedIn</a>. I’d be happy to connect!
 </p>
 
 <p align="center">Thank You</p>
